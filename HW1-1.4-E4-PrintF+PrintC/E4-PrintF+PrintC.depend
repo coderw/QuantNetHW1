@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445792678 source:c:\users\brian\desktop\c++\e4-printf+printc\main.c
+	<stdio.h>
+	<stdlib.h>
+
